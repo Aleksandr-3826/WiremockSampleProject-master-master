@@ -1,0 +1,4 @@
+# Project exclude paths
+/WiremockSampleProject-master-master/WiremockSampleProject-master/.gradle/
+/WiremockSampleProject-master-master/WiremockSampleProject-master/build/
+/WiremockSampleProject-master-master/WiremockSampleProject-master/build/classes/java/test/
